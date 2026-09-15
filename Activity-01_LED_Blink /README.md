@@ -12,9 +12,6 @@ To understand digital output programming using Arduino by blinking an LED.
 - Jumper Wires
 
 ## Circuit Diagram
-![Circuit Diagram](circuit.png)
-
-*(Replace `circuit.png` with a screenshot of your Tinkercad circuit before uploading.)*
 
 ## Arduino Program
 The full sketch is available in [`code.ino`](./code.ino).
