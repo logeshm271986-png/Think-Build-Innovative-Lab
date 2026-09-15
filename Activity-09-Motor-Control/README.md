@@ -1,5 +1,5 @@
-[README (9).md](https://github.com/user-attachments/files/32223425/README.9.md)
-[Uploading README (7).m# Activity 9 – DC Motor Control with Arduino
+
+[Activity 9 – DC Motor Control with Arduino
 
 ## Overview
 This activity demonstrates basic ON/OFF control of a DC motor using an Arduino UNO and a motor driver module (L293D), simulated in Tinkercad.
